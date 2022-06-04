@@ -1,0 +1,10 @@
+Přednáška na skalární součin a normu vektorů - DONE 
+Projít si pár testů z lingebry - PROGRESS
+Skok Back - DONE 
+Zmrd Front - 
+Zmrd Back - 
+Zacvičit si - 
+Reorganizace Historek - DONE
+Připravit si další historky - DONE
+
+DONE: 4.5 / 8.0

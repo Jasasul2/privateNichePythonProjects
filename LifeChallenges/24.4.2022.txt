@@ -1,0 +1,11 @@
+Sprcha na probuzení - DONE 
+Vyndat myčku - DONE
+Úklid dole - DONE 
+Dodělat úkol z analýzy - DONE
+Zkusit udělat progress na úkolu ze sítí (Timeout a potvrzování) - DONE
+Zkusit udělat progress na šachách (Action system basics) - DONE
+Domluvit lístky na Strange - PROGRESS
+Lego Star Wars Ep 3 jedna mise - 
+Cvičení - 
+Euforie 1. díl - DONE
+DONE: 7.5 / 10.0
